@@ -1,0 +1,25 @@
+1.Installation of Metamask and study spending Ether per transaction.
+2.Create your own wallet using Metamask for crypto transactions.
+
+{ye sab steps karne hi padte konsa bhi ajaye}
+
+>> go to metamask.io 
+>> get metamask
+>> add extension to chrome
+>> create new wallet
+>> follow instructions
+>>wallet created
+
+{for transactions}
+
+>> go to networks
+>> turn on test networks
+>> select sepoliaETH
+>> new tab 
+>> search sepolia faucet (google cloud)
+>> paste your acc public key
+>> recive click
+>> your acc now has 0.05 sepoliaETH
+>> add new acc
+>> send some currency from your acc to this acc
+>> check the gas limit, gas price etc from history
